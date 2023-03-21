@@ -125,7 +125,7 @@ body {
 }
 
 .main__description {
-  font-size: min(max(4vw), 1.4rem);
+  font-size: min(max(4vw), 1.6rem);
   position: relative;
   text-align: justify;
   word-wrap: break-word;
