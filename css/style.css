@@ -245,7 +245,7 @@ body {
 
 .main__name {
   display: block;
-  font-size: min(max(5vw), 1.2rem);
+  font-size: min(max(5vw), 1.4rem);
   margin-bottom: 3em;
   text-align: right;
 }
